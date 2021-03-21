@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/buk-dev-test/static/css/main.bdf3dd5f.chunk.css",
+    "main.css": "/buk-dev-test/static/css/main.d40d3f7e.chunk.css",
     "main.js": "/buk-dev-test/static/js/main.bc842471.chunk.js",
     "main.js.map": "/buk-dev-test/static/js/main.bc842471.chunk.js.map",
     "runtime-main.js": "/buk-dev-test/static/js/runtime-main.f60cd1d9.js",
@@ -10,14 +10,15 @@
     "static/js/3.b9638e41.chunk.js": "/buk-dev-test/static/js/3.b9638e41.chunk.js",
     "static/js/3.b9638e41.chunk.js.map": "/buk-dev-test/static/js/3.b9638e41.chunk.js.map",
     "index.html": "/buk-dev-test/index.html",
-    "static/css/main.bdf3dd5f.chunk.css.map": "/buk-dev-test/static/css/main.bdf3dd5f.chunk.css.map",
+    "static/css/main.d40d3f7e.chunk.css.map": "/buk-dev-test/static/css/main.d40d3f7e.chunk.css.map",
     "static/js/2.19c9e578.chunk.js.LICENSE.txt": "/buk-dev-test/static/js/2.19c9e578.chunk.js.LICENSE.txt",
-    "static/media/logo.7aa5cbe7.svg": "/buk-dev-test/static/media/logo.7aa5cbe7.svg"
+    "static/media/logo.7aa5cbe7.svg": "/buk-dev-test/static/media/logo.7aa5cbe7.svg",
+    "static/media/App.css": "/buk-dev-test/static/media/slide_one.df407357.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f60cd1d9.js",
     "static/js/2.19c9e578.chunk.js",
-    "static/css/main.bdf3dd5f.chunk.css",
+    "static/css/main.d40d3f7e.chunk.css",
     "static/js/main.bc842471.chunk.js"
   ]
 }
