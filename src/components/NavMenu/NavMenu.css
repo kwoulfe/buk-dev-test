@@ -1,0 +1,20 @@
+.navMenu {
+    clear: both;
+    list-style: none;
+    padding: 0;
+}
+
+.navMenu a {
+    color: var(--white);
+    text-decoration: none;
+    font-family: 'HelveticaNeue', Arial, Helvetica, sans-serif;
+    font-size: 0.875rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: normal;
+}
+.navMenu a:hover {
+    color: var(--orange);
+}

@@ -1,0 +1,32 @@
+/* .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  } */
+
+  #logo {
+    float: left;
+    width: 4.728rem;
+    height: 2.363rem;
+  }
+
+  .abc {
+    width: 100%;
+    object-fit: contain;
+  }
+
+  .Industries-Services {
+    width: 4.563rem;
+    height: 4.875rem;
+    font-family: HelveticaNeue;
+    font-size: 0.875rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: normal;
+    color: var(--white);
+  }
+  
+  .Industries-Services .text-style-1 {
+    color: #ffc004;
+  }
