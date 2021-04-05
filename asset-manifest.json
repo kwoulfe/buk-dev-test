@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/buk-dev-test/static/css/main.cd8ca7af.chunk.css",
-    "main.js": "/buk-dev-test/static/js/main.771a332c.chunk.js",
-    "main.js.map": "/buk-dev-test/static/js/main.771a332c.chunk.js.map",
-    "runtime-main.js": "/buk-dev-test/static/js/runtime-main.f60cd1d9.js",
-    "runtime-main.js.map": "/buk-dev-test/static/js/runtime-main.f60cd1d9.js.map",
-    "static/js/2.19c9e578.chunk.js": "/buk-dev-test/static/js/2.19c9e578.chunk.js",
-    "static/js/2.19c9e578.chunk.js.map": "/buk-dev-test/static/js/2.19c9e578.chunk.js.map",
-    "static/js/3.b9638e41.chunk.js": "/buk-dev-test/static/js/3.b9638e41.chunk.js",
-    "static/js/3.b9638e41.chunk.js.map": "/buk-dev-test/static/js/3.b9638e41.chunk.js.map",
+    "main.css": "/buk-dev-test/static/css/main.1c0e0d31.chunk.css",
+    "main.js": "/buk-dev-test/static/js/main.01488e97.chunk.js",
+    "main.js.map": "/buk-dev-test/static/js/main.01488e97.chunk.js.map",
+    "runtime-main.js": "/buk-dev-test/static/js/runtime-main.92afa01d.js",
+    "runtime-main.js.map": "/buk-dev-test/static/js/runtime-main.92afa01d.js.map",
+    "static/js/2.67249def.chunk.js": "/buk-dev-test/static/js/2.67249def.chunk.js",
+    "static/js/2.67249def.chunk.js.map": "/buk-dev-test/static/js/2.67249def.chunk.js.map",
+    "static/js/3.13b6e91e.chunk.js": "/buk-dev-test/static/js/3.13b6e91e.chunk.js",
+    "static/js/3.13b6e91e.chunk.js.map": "/buk-dev-test/static/js/3.13b6e91e.chunk.js.map",
     "index.html": "/buk-dev-test/index.html",
-    "static/css/main.cd8ca7af.chunk.css.map": "/buk-dev-test/static/css/main.cd8ca7af.chunk.css.map",
-    "static/js/2.19c9e578.chunk.js.LICENSE.txt": "/buk-dev-test/static/js/2.19c9e578.chunk.js.LICENSE.txt",
+    "static/css/main.1c0e0d31.chunk.css.map": "/buk-dev-test/static/css/main.1c0e0d31.chunk.css.map",
+    "static/js/2.67249def.chunk.js.LICENSE.txt": "/buk-dev-test/static/js/2.67249def.chunk.js.LICENSE.txt",
+    "static/media/abc_logo.c72ca4e0.svg": "/buk-dev-test/static/media/abc_logo.c72ca4e0.svg",
     "static/media/App.css": "/buk-dev-test/static/media/slide_one.df407357.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f60cd1d9.js",
-    "static/js/2.19c9e578.chunk.js",
-    "static/css/main.cd8ca7af.chunk.css",
-    "static/js/main.771a332c.chunk.js"
+    "static/js/runtime-main.92afa01d.js",
+    "static/js/2.67249def.chunk.js",
+    "static/css/main.1c0e0d31.chunk.css",
+    "static/js/main.01488e97.chunk.js"
   ]
 }
